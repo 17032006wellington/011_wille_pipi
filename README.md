@@ -8,13 +8,16 @@
 </head>
 <body>
     <header>
-    <h1>sabores</h1>
+    <h1>SABORES</h1>
+
     
     <h1>-uva com chocolate</h1>
     <h1>-uva e morango</h1>
     <h1>-morango e chocolate</h1>
 
     <h1>coberturas</h1>
+
+    
     <h1>granulado</h1>
     <h1>paçoca</h1>
 
